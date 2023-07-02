@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Stefanini</string>
+    <string-array name="categorias">
+        <item>Todas</item>
+        <item>Juegos</item>
+        <item>Entrenimiento</item>
+        <item>Educacion</item>
+
+
+    </string-array>
+</resources>
+
